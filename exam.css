@@ -1,0 +1,78 @@
+*{
+    list-style: none;
+}
+body{
+    background-color: #f7f7f7;
+}
+.khung{
+    width: 80%;
+    height: 1000px;
+    background-color: #8CBDE1;
+    margin-left: 10%;
+}
+.anh{
+    width: 83.4%;
+    height: 25%;
+    padding-top: 3%;
+    margin-left: 5%;
+    padding-bottom: 1.5%;
+}
+.anh img{
+    border: 5px solid white;
+}
+.nho{
+    width: 83.4%;
+    height: 630px;
+    margin-left: 5%;
+    background-color: white;
+}
+.col-md-4{
+    border: 5px solid white;
+    background-color: #AFD3EB
+}
+.col-md-4 h3{
+    font-family: Arial;
+    font-size:21px;
+    color: #1D5174;
+}
+.col-md-4 li{
+    font-family: Arial; color: #1779CA;
+    font-size:13px;
+    font-weight:bold
+}
+
+.col-md-5{
+    border: 5px solid white;
+    background-color: #9acfea;
+}
+.col-md-5 h2{
+    font-family: Arial;
+    color: #0000FF;
+    font-size:14px; font-weight:bold
+}
+.col-md-5 li{
+    font-family: Arial;
+    color: #000000;
+    font-size:12px;
+}
+.col-md-3{
+    border: 5px solid white;
+    text-align: right;
+    background-color: #AFD3EB
+}
+.col-md-3 h3{
+    font-family: Arial;
+    font-size:21px;
+    color: #1D5174;
+}
+.col-md-3 li{
+    font-family: Arial; color: #1779CA;
+    font-size:13px;
+    font-weight:bold
+}
+.khung h5{
+    text-align: center;
+    color: #1D5174;
+    font-size: 12px;
+    font-weight: bold;
+}
